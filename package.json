@@ -1,0 +1,25 @@
+{
+  "name": "peachforest",
+  "displayName": "PeachForest",
+  "description": "coder color theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thehelpfultipper/pink_panda_vsctheme.git"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "weitingcoder",
+        "uiTheme": "vs",
+        "path": "./themes/weitingcoder-color-theme.json"
+      }
+    ]
+  }
+}
