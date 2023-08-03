@@ -1,7 +1,7 @@
 {
   "name": "peachforest",
-  "displayName": "PeachForest",
-  "description": "coder color theme",
+  "displayName": "PeachForestTheme",
+  "description": "This is a coderTheme",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.80.0"
